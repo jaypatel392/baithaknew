@@ -23,7 +23,7 @@
 |
 */
 //$config['base_url'] = 'http://localhost/ecommerce/';
-$config['base_url'] = 'http://localhost/BaithakNew/';
+$config['base_url'] = 'http://localhost/baithaknew/';
 
 /*
 |--------------------------------------------------------------------------
